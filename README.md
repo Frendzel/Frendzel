@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Frendzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frendzel&count_private=true&show_icons=true&theme=radical)](https://github.com/Frendzel/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frendzel&langs_count=8&layout=compact&theme=radical)](https://github.com/Frendzel/github-readme-stats)
+
+<a href="https://stackoverflow.com/users/995199/marcin-erbel"><img src="https://stackoverflow.com/users/flair/995199.png" width="208" height="58" alt="profile for Marcin Erbel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marcin Erbel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
