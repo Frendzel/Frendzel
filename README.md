@@ -1,11 +1,9 @@
 ### Hi there 👋
-Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. More than 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 7+ years in teaching.
+Experienced Software Engineer working in Payments, Automotive, Gaming areas with strong soft skills and teaching passion. More than 15 years of experience as a Software Engineer mixed with leading teams (team lead/tech lead) and teaching. Feel free to contact me if you need coach/bootcamp teacher/lecturer:
 
-- 🔭 I’m currently working on AWS Associate Architect Course;
 - 🌱 I’m currently learning Azure & AWS Certifications; Kotlin Multiplatform -> my own software idea;
 - 👯 I’m looking to collaborate on projects related to Quantum Computing;
 - 💬 Ask me about how to start working in IT Industry;
-- 📫 How to reach me: you can send me priv, for example on Twitter: https://twitter.com/MarcinErbel
 
 [![Frendzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frendzel&count_private=true&show_icons=true&theme=radical)](https://github.com/Frendzel/github-readme-stats)
 
